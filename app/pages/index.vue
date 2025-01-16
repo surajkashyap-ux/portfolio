@@ -6,7 +6,7 @@
   <div class="mt-8 text-center">
     <div class="mt-4 flex justify-center space-x-6">
       <a
-        href="https://surajvk.netlify.app/"
+        href="https://portfolio-main-two-rust.vercel.app/"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Vercel"
