@@ -1,5 +1,4 @@
 <template>
-  <!-- Main prose content container -->
   <div class="prose dark:prose-invert max-w-none">
     <ContentDoc path="/" />
   </div>
@@ -7,7 +6,7 @@
   <div class="mt-8 text-center">
     <div class="mt-4 flex justify-center space-x-6">
       <a
-        href="https://abc.com"
+        href="https://surajvk.netlify.app/"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Vercel"
